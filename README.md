@@ -27,6 +27,12 @@ Install `OpenTabList` via Package Control.
 1. Clone or download this repository, (re)name the folder to `OpenTabList` if necessary.
 2. Move the folder inside your sublime `/Packages`. (*Preferences > Browse Packages...*)
 
+## Usage
+
+Bind the command `otl_open_tab_list` to a keyboard shorcut (*Preferences > Key bindings)
+
+Or, invoke the command from the command palette, search `OTL: List open files` and press <kbd>↲ Enter</kbd>
+
 ## Support
 
 If you find this plugin useful and want to support my efforts, [buy me a coffee ☕](https://www.buymeacoffee.com/vonheikemen).
