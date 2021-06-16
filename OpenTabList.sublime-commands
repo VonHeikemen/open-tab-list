@@ -1,0 +1,6 @@
+[
+  {
+		"caption": "OTL: List open files",
+		"command": "otl_open_tab_list"
+	}
+]
